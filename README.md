@@ -1,8 +1,8 @@
 # Data Gen Tool
 
-[![GitHub license](https://img.shields.io/github/license/yourusername/data-gen-tool)](https://github.com/yourusername/data-gen-tool/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/data-gen-tool)](https://github.com/yourusername/data-gen-tool/issues)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/data-gen-tool)](https://github.com/yourusername/data-gen-tool/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Specks24/data-gen-tool)](https://github.com/Specks24/data-gen-tool/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Specks24/data-gen-tool)](https://github.com/Specks24/data-gen-tool/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Specks24/data-gen-tool)](https://github.com/Specks24/data-gen-tool/stargazers)
 
 A versatile, consumer-facing data generation tool designed for data engineers and trainers. Generate synthetic test data quickly for ETL workloads, training programs, or prototyping—based on inferred schemas from sample datasets or provided SQL DDL. Supports multiple output formats like CSV, Delta tables (via PySpark), TXT, and more.
 
@@ -37,7 +37,7 @@ This project is built iteratively with a modular structure to support future exp
 ### Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/data-gen-tool.git
+   git clone https://github.com/Specks24/data-gen-tool.git
    cd data-gen-tool
    ```
 
