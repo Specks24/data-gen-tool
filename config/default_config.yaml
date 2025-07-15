@@ -1,0 +1,6 @@
+generation:
+  row_count: 100
+  distributions:
+    default: uniform
+outputs:
+  default_format: csv
