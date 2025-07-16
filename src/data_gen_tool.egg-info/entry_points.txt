@@ -1,0 +1,2 @@
+[console_scripts]
+data-gen-cli = data_gen.cli:main

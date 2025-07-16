@@ -1,0 +1,6 @@
+faker
+pandas
+sqlparse
+pyspark
+delta-spark
+pyyaml
