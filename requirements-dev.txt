@@ -1,0 +1,3 @@
+pytest>=7.4.0  # For running unit tests in tests/ (e.g., test_parsers.py, test_generators.py)
+black>=23.0.0  # For auto-formatting code (run: black .)
+flake8>=6.0.0  # For linting and style checks (run: flake8 .)

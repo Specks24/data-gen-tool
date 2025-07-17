@@ -1,0 +1,11 @@
+faker>=20.0.0  # For synthetic data generation (e.g., names, words)
+pandas>=2.0.0  # For data manipulation, schema inference from samples, and CSV/TXT writing
+numpy>=1.24.0  # For numerical operations and distributions in heuristics
+scipy>=1.10.0  # For advanced statistical distributions (e.g., Poisson, normal)
+sqlparse>=0.4.0  # For parsing SQL DDL to infer schemas
+pyarrow>=10.0.0  # For Parquet and efficient data handling (used in writers)
+# Optional for Delta tables: pyspark>=3.4.0 (install separately with `pip install pyspark` if testing Delta outputs)
+click>=8.1.0  # For building the CLI in src/cli.py
+fastapi>=0.100.0  # For the API layer in api/app.py
+uvicorn>=0.22.0  # For running the FastAPI server
+streamlit>=1.25.0  # For the web UI in web/app.py with drag-and-drop features
